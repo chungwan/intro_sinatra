@@ -1,0 +1,41 @@
+
+
+.header_logo {display:inline-block;width:200px;} 
+.header_nav {width:730px;text-align:right; display:inline-block;} 
+.header_nav a:hover {text-decoration:none;color:orange;font-weight:bold;}
+
+
+.hero_content_title{font-size:15px; padding:10px;font-weight:bold;}
+.hero_content_list{font-size:12px;}
+
+
+
+
+.footer_nav{text-align:center;padding-top:30px;padding-bottom:30px;}
+
+
+.main_wrapper{display:inline-block;}
+.main{display:inline-block;width:720px;padding-left:10px;}
+.side{display:inline-block;width:190px; padding-left:10px;}
+
+
+
+
+a.button_start {
+    display:block;
+    width:180px;
+    height:74px;
+    background-image:url("http://www.picstickers.com/design/start_making.jpg");}
+a.button_start:hover {
+    background-image:url("http://www.picstickers.com/design/start_making2.jpg");}
+
+
+
+a.button_cart{
+    display:block;
+    width:180px;
+    height:63px;
+    background-image:url("http://www.picstickers.com/design/addtocart.jpg");}
+a.button_cart:hover {
+    background-image:url("http://www.picstickers.com/design/addtocart2.jpg");}
+
